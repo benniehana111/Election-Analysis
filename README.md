@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview of Election Audit
 
 ### Purpose
 

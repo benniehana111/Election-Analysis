@@ -1,29 +1,23 @@
-# Election Audit: Compiling and Reporting Election Results
+# Kickstarting with Excel
 
-## Overview of Election Audit
+## Overview of Project
 
-This project began with voting returns for Arapahoe, Denver, and Jefferson counties. For each ballot reported, the returns included the ballot ID, the county in which the ballot was cast, and the candidate voted for. A Python script was created to import these returns from a csv file and compile the election results as reported below.
+### Purpose
 
-## Election Audit Results
+## Analysis and Challenges
 
-Total Votes: 369,711
+### Analysis of Outcomes Based on Launch Date
 
-County Votes:
-Jefferson: received 10.5% (38,855)
-Denver: received 82.8% (306,055)
-Arapahoe: received 6.7% (24,801)
+### Analysis of Outcomes Based on Goals
 
-Largest County Turnout: Denver
+### Challenges and Difficulties Encountered
 
-Candidate Votes:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+## Results
 
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-## Election Audit Summary
+- What can you conclude about the Outcomes based on Goals?
 
-The Python script prepared for this election audit can be readily adapted for use in other elections. Changes to names of counties and slates of candidates require no modifications to the script. More detailed results can be created by (1) compiling and reporting vote totals for each candidate in each county, and (2) compiling and reporting the percentage of the vote for each candidate in each county.
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
